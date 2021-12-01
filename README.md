@@ -1,6 +1,4 @@
-### Hi there 👋
-
-**GulenYilmaz/GulenYilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 I am Gulen Yilmaz
 
 <h3 align="center">A passionate Software QA Automation Engineer in Michigan</h3>
 

@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **GulenYilmaz/GulenYilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h3 align="center">A passionate Software QA Automation Engineer in Michigan</h3>
@@ -27,5 +26,3 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gulenyilmaz&" alt="gulenyilmaz" /></p>
 
 
-
--->

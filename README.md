@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Gulen Yilmaz
 
-<h3 align="center">A passionate Software QA Automation Engineer in Michigan</h3>
+<h3>A passionate Software QA Automation Engineer in Michigan</h3>
 
 - 🔭 I’m currently working on Capstone Project
 - 🌱 I’m currently learning Java, JavaScript, Python Html, Css

@@ -2,8 +2,6 @@
 
 <h3 align="center">A passionate Software QA Automation Engineer in Michigan</h3>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Capstone Project
 - 🌱 I’m currently learning Java, JavaScript, Python Html, Css
 - 👯 I’m looking to collaborate on any project with JavaScript 

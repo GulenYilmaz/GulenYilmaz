@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Capstone Project
 - 🌱 I’m currently learning Java, JavaScript, Python Html, Css
-- 👯 I’m looking to collaborate on any project with JavaScript 
+- 👯 I’m looking to collaborate on any project with JavaScript, Java and Python
 - 📫 How to reach me **gulen.yilmaz.mi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

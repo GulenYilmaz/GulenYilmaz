@@ -2,7 +2,7 @@
 
 <h3>A passionate Software QA Automation Engineer in Michigan</h3>
 
-- 🔭 I’m currently working on Capstone Project
+- 🔭 I’m currently working on new projects every day!
 - 🌱 I’m currently learning Java, JavaScript, Python Html, Css
 - 👯 I’m looking to collaborate on any project with JavaScript, Java and Python
 - 📫 How to reach me **gulen.yilmaz.mi@gmail.com**

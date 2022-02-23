@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Gulen Yilmaz
 
-<h3>A passionate Associate Software QA Automation Engineer in Michigan</h3>
+<h3>A passionate Associate Software QA Automation Engineer in  Perficient </h3>
 
 - 🔭 I’m currently working on new projects every day!
 - 🌱 I’m currently learning Java, JavaScript, Python Html, Css

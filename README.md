@@ -1,9 +1,9 @@
 ### Hi there 👋 I am Gulen Yilmaz
 
-<h3>A passionate Associate Software QA Automation Engineer in  Perficient </h3>
+<h3>A passionate Associate Techinical Consultant in  Perficient </h3>
 
 - 🔭 I’m currently working on new projects every day!
-- 🌱 I’m currently learning Java, JavaScript, Python Html, Css
+- 🌱 I’m currently learning JavaScript, Python, Java Html, Css
 - 👯 I’m looking to collaborate on any project with JavaScript, Java and Python
 - 📫 How to reach me **gulen.yilmaz.mi@gmail.com**
 
